@@ -1,0 +1,71 @@
+﻿/////////////////////////////////////////////////////////
+// Config for the JMusicBot                            //
+/////////////////////////////////////////////////////////
+// Any line starting with // is ignored                //
+// You MUST set the token and owner                    //
+// All other items have defaults if you don't set them //
+// Open in Notepad++ for best results                  //
+/////////////////////////////////////////////////////////
+
+
+// This sets the token for the bot to log in with
+// This MUST be a bot token (user tokens will not work)
+// If you don't know how to get a user token, please see the guide here:
+// https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
+
+token=MzQzNDgxNzA4ODQwMjIyNzMy.DHHXiQ.vFNUq2rHMRVdqfK1Mh4DiLUBZ4c
+
+
+// This sets the owner of the bot
+// This needs to be the owner's ID (a 17-18 digit number)
+// https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
+
+owner=343481708840222732
+
+
+// This sets the prefix for the bot
+// The prefix is used to control the commands
+// If you use !!, the play command will be !!play
+// If you do not set this, the prefix will be a mention of the bot (@Botname play)
+// If you make this blank, the bot will not use a prefix
+
+prefix=!
+
+
+/////////////////////////////////////////////////////////////
+// If you change any of the settings below here, make sure //
+// to remove the // at the beginning of the line with the  //
+// setting. Any line starting with // is ignored!          //
+/////////////////////////////////////////////////////////////
+
+
+// If you set this, it modifies the default game of the bot
+//
+game=shoemakk.com
+
+// If you set these, it will change the success, warning, and error emojis
+//
+//success=🎶
+//warning=💡
+//error=🚫
+
+
+// If you set this, you change the word used to view the help.
+// For example, if you set the prefix to !! and the help to cmds, you would type
+// !!cmds to see the help text
+//
+//help=cmds
+
+
+// If you set this, there will not be a progress bar displayed in the channel topic,
+// and instead, just the name of the song and user that added it
+// This is useful for decreasing spam in the audit log, if it is a concern.
+//
+//noprogressintopic=true
+
+
+// If you set this, the bot will not leave a voice channel after it finishes a queue.
+// Keep in mind that being connected to a voice channel uses additional bandwith,
+// so this option is not recommended if bandwidth is a concern.
+//
+stayinchannel=true

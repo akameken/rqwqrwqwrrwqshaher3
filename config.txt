@@ -69,3 +69,9 @@ game=shoemakk.com
 // so this option is not recommended if bandwidth is a concern.
 //
 stayinchannel=true
+
+// If you set this to true, the bot will list the title of the song it is currently playing in its
+// "Playing" status. Note that this will ONLY work if the bot is on ONE guild; if the bot is on
+// multiple guilds, this will not work.
+//
+songinstatus=true

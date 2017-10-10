@@ -1,6 +1,6 @@
 token=MzQzNDgxNzA4ODQwMjIyNzMy.DHHXiQ.vFNUq2rHMRVdqfK1Mh4DiLUBZ4c
 owner=343481708840222732
 prefix=!
-game=bot.shoemakk.com
+game=shoemakk.com/bot
 stayinchannel=true
 songinstatus=true

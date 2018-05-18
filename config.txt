@@ -1,4 +1,4 @@
-token=NDQ3MTAwOTMxOTY5MTIyMzA0.DeCu_g.0jSwvrCEl7lHUTZ6Jwe-MltoDlM
+token=MzQzNDgxNzA4ODQwMjIyNzMy.DeC1Hg.h549GNhdT1KnCa310US3DfsTcno
 owner=82997179416842240
 prefix=!
 game=my.shoemakk.com/bot

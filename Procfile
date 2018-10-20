@@ -1,1 +1,1 @@
-worker: cp /usr/bin/env config.txt && java -jar bot.jar -nogui
+worker: cp /usr/bin/env /app/config.txt && java -jar bot.jar -nogui

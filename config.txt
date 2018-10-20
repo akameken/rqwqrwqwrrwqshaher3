@@ -1,2 +1,2 @@
 token=process.env.DISCORD
-owner=process.env.OWNER
+owner=82997179416842240

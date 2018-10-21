@@ -1,0 +1,3 @@
+This is where you config file would go
+Example here: https://github.com/jagrosh/MusicBot/releases/download/0.1.3/config.txt
+Please don't put your token's on a public github repo

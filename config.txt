@@ -1,2 +1,0 @@
-token=process.env.DISCORD
-owner=82997179416842240
